@@ -1,26 +1,17 @@
-CCA Virtual and Hybrid Events
+# CCA Virtual and Hybrid Events
 
-[**Introduction** 2](#_Toc97217437)
+- **Introduction**
+- **CCA virtual event formats by broadcast and distribution platforms** 
+- **Formats**
+- **Virtual event during which the audience engages actively**
+- **Virtual event with limited participation from the audience**
+- **Virtual presentation with participants, live and pre-recorded segments**
+- **Hybrid event with all virtual participants with live moderator and audience**
+- **Hybrid event with some participants in a physical space with only virtual audience**
+- **Hybrid event with in-person participants and audience, recorded for virtual audience**
 
-[**CCA virtual event formats by broadcast and distribution platforms** 3](#_Toc97217438)
 
-[**Formats** 5](#_Toc97217439)
-
-[Virtual event during which the audience engages actively 5](#_Toc97217440)
-
-[Virtual event with limited participation from the audience 6](#_Toc97217441)
-
-[Virtual presentation with participants, live and pre-recorded segments 7](#_Toc97217442)
-
-[Hybrid event with all virtual participants with live moderator and audience 8](#_Toc97217443)
-
-[Hybrid event with some participants in a physical space with only virtual audience 9](#_Toc97217444)
-
-[Hybrid event with in-person participants and audience, recorded for virtual audience 10](#_Toc97217445)
-
-#
-
-# **Introduction**
+## **Introduction**
 
 While we sometimes live-streamed events, and occasionally used video-conferencing systems prior to the pandemic, events were live by default. The pandemic forced us to rethink this status quo and the resulting necessity of virtual events created both opportunities and challenges.
 
@@ -32,62 +23,28 @@ To summarize how each of the formats described below address this balance: virtu
 
 With the gradual return in-person activities, we have reached another turning point --the introduction of a hybrid event – where either the participants or the audience, or perhaps a part of each is in a physical space, while others remain remote and accessing the event through technology: the lessons of virtual events meet the old practices of in-person ones yet require more than simply a combination of the two. We have only just begun to develop our new hybrid strategies. The hybrid combinations proposed here are starting points for experimentation and testing.
 
-20 February 2022
+## **CCA virtual event formats by broadcast and distribution platforms**
 
-# **CCA virtual event formats by broadcast and distribution platforms**
+| Platform | Use |  |
+| --- | --- | --- |
+| **CCA Website** | _Distribution_ | Events are promoted on the websites with registration links if applicable, as well as links to past event recordings. |
+| **YouTube** | _Broadcast_ | Virtual screenings with participants (with live and pre-recorded segments) – online chat |
+|  | _Distribution_ | Principal video distribution channel - audience can access files either directly on YouTube or as embedded video on CCA website. |
+| **Zoom Webinar** | _Broadcast only_ | Virtual events with limited participation from the audience |
+| **Zoom Meetings** | _Broadcast only_ | Virtual events during which the audience engages actively |
+| **Facebook Live** | _Broadcast_ | Virtual screenings with participants (with live and pre-recorded segments) |
+|  | _Distribution_ | Facebook is used to promote virtual events and videos remain on this platform afterward for viewing. |
+| **Instagram** | _Broadcast_ | Not in use for live video broadcast. |
+|  | _Distribution_ | Video distribution limited to short clips |
+| **Vimeo** | _Broadcast_ | Not used as a broadcast channel |
+|  | _Distribution_ | Used to distribute privately CCA content and CCA Collection audio-visual content to researchers and other users. |
+| **Soundcloud** | _Distribution only_ | Used of distribute sound only content |
 
-| Platform | Use |
-| --- | --- |
-|
-**CCA Website** |
-_Distribution_ | Events are promoted on the websites with registration links if applicable, as well as links to past event recordings. |
-|
-**YouTube**
- | _Broadcast_ |
-Virtual screenings with participants (with live and pre-recorded segments) – online chat
- |
-|
- | _Distribution_ |
-Principal video distribution channel - audience can access files either directly on YouTube or as embedded video on CCA website.
- |
-| **Zoom Webinar** | _Broadcast only_ |
-Virtual events with limited participation from the audience
- |
-| **Zoom Meetings** | _Broadcast only_ |
-Virtual events during which the audience engages actively
- |
-| **Facebook Live** | _Broadcast_ |
-Virtual screenings with participants (with live and pre-recorded segments)
- |
-|
- | _Distribution_ |
-Facebook is used to promote virtual events and videos remain on this platform afterward for viewing.
- |
-| **Instagram** | _Broadcast_ |
-Not in use for live video broadcast.
- |
-|
- | _Distribution_ |
-Video distribution limited to short clips
- |
-| **Vimeo** | _Broadcast_ |
-Not used as a broadcast channel
- |
-|
- | _Distribution_ |
-Used to distribute privately CCA content and CCA Collection audio-visual content to researchers and other users.
- |
-| **Soundcloud** | _Distribution only_ |
-Used of distribute sound only content
- |
 
-#
+## **Formats**
 
-# **Formats**
 
-#
-
-# Virtual event during which the audience engages actively
+### Virtual event during which the audience engages actively
 
 **Example(s)**: press launch, workshops, all staff meeting, discussion with the curator
 
@@ -99,21 +56,13 @@ Used of distribute sound only content
 | **Video content** | Limited |
 | **Technical support** | Not required |
 | **Live broadcasting** | No |
-| **Recording** | Optional via Zoom (Person in Charge: Coordinator, Public)
- |
+| **Recording** | Optional via Zoom (Person in Charge: Coordinator, Public) |
 | **Permissions** | If recorded, waivers need to be signed prior to the event for host(s) and speaker(s). Participants should be informed when joining. |
-| **Publication** | Upon request - Edited and published on YouTube Team lead needs to inform the Publications team, the Production Manager, Digital Content, and the Digital Engagement Manager prior to the event if the recording is intended to be published.
- |
+| **Publication** | Upon request - Edited and published on YouTube Team lead needs to inform the Publications team, the Production Manager, Digital Content, and the Digital Engagement Manager prior to the event if the recording is intended to be published. |
 | **Team lead** | Event Coordinator – Coordinator, Public. Coordinates the event from A to Z, and liaise with other teams |
-| **Other team members involved** | Production Manager, Digital Content – Only involved if event is recorded and edited. Manages the content production process for A to Z
- |
-|
- |
- |
+| **Other team members involved** | Production Manager, Digital Content – Only involved if event is recorded and edited. Manages the content production process for A to Z |
 
-#
-
-# Virtual event with limited participation from the audience
+### Virtual event with limited participation from the audience
 
 **Example(s)**: seminar, curator&#39;s talk, student charettes, workshops, book launch
 
@@ -151,7 +100,7 @@ Used of distribute sound only content
 | **Team lead** | Event Coordinator – Coordinator, Public. Coordinates the event from A to Z, and liaise with other teams |
 | **Other team members involved** | Production Manager, Digital Content – Manages the content production process for A to Z |
 
-# Hybrid event with all virtual participants with live moderator and audience
+### Hybrid event with all virtual participants with live moderator and audience
 
 Example: film screening in theatre with discussion afterward
 
@@ -170,7 +119,7 @@ Example: film screening in theatre with discussion afterward
 | **Team lead** | Event Coordinator – Coordinator, Public. Coordinates the event from A to Z, and liaise with other teams |
 | **Other team members involved** | Production Manager, Digital Content – Only involved if event is recorded and edited. Manages the content production process for A to Z |
 
-# Hybrid event with some participants in a physical space with only virtual audience
+### Hybrid event with some participants in a physical space with only virtual audience
 
 Example: speaker panel in theatre with no audience
 
@@ -185,15 +134,12 @@ Example: speaker panel in theatre with no audience
 | **Live chat moderation** | Yes, in-person moderator verbalizing chat to participants |
 | **Recording** | Optional |
 | **Permissions** | Waivers also need to be signed prior to the event. And participants should be informed when joining (see how to activity the recording disclaimer feature in Zoom). |
- |
-| **Publication** | Upon request - Edited and published on YouTube Team lead needs to inform the Publications team, the Production Manager, Digital Content and the Digital Engagement Manager prior to the event if the recording is intended to be published.
- |
+| **Publication** | Upon request - Edited and published on YouTube Team lead needs to inform the Publications team, the Production Manager, Digital Content and the Digital Engagement Manager prior to the event if the recording is intended to be published. |
 | **Team lead** | Event Coordinator – Coordinator, Public. Coordinates the event from A to Z, and liaise with other teams |
 | **Other team members involved** | Production Manager, Digital Content – Only involved if event is recorded and edited. Manages the content production process for A to Z |
 
-#
 
-# Hybrid event with in-person participants and audience, recorded for virtual audience
+### Hybrid event with in-person participants and audience, recorded for virtual audience
 
 Example: Lecture in theatre
 
@@ -210,7 +156,3 @@ Example: Lecture in theatre
 | **Publication** | Edited and published on YouTube Team lead needs to involve the Publications team, the Production Manager, Digital Content and the Digital Engagement Manager prior to the event if the recording is intended to be published. |
 | **Team lead** | Event Coordinator – Coordinator, Public. Coordinates the event from A to Z, and liaise with other teams |
 | **Other team members involved** | Production Manager, Digital Content – Manages the content production process for A to Z |
-
-SC / v1 / 2021-01-12 Revised EC 2022-02-08
-
-3 ![](RackMultipart20220425-1-4dlhek_html_ca8a450caba782e4.png)
