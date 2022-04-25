@@ -40,6 +40,7 @@ With the gradual return in-person activities, we have reached another turning po
 |  | _Distribution_ | Used to distribute privately CCA content and CCA Collection audio-visual content to researchers and other users. |
 | **Soundcloud** | _Distribution only_ | Used of distribute sound only content |
 
+![schema](https://www.cca.qc.ca/img/s-dzpF8TDteIqMUK6PcnQ_fhIQc=/1920x0/16317/15246/en-schema.png)
 
 ## **Formats**
 
